@@ -35,7 +35,3 @@ To create a production build:
 ```bash
 npm run build
 ```
-
-## Author
-
-Created by shivam-707.
