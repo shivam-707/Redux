@@ -1,6 +1,6 @@
 # Redux Todo App
 
-A simple React + Redux todo application built with Vite. This project demonstrates how to manage todo state using Redux Toolkit with a clean and minimal UI.
+A simple React + Redux todo application built with Vite. This project demonstrates how to manage todo state using Redux Toolkit with a clean UI.
 
 ## Features
 
